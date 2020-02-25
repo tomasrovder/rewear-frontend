@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rewear-frontend/static/css/main.d1b05096.chunk.css",
+    "main.js": "/rewear-frontend/static/js/main.c941e5aa.chunk.js",
+    "main.js.map": "/rewear-frontend/static/js/main.c941e5aa.chunk.js.map",
+    "runtime-main.js": "/rewear-frontend/static/js/runtime-main.ed197840.js",
+    "runtime-main.js.map": "/rewear-frontend/static/js/runtime-main.ed197840.js.map",
+    "static/js/2.74f1c8ea.chunk.js": "/rewear-frontend/static/js/2.74f1c8ea.chunk.js",
+    "static/js/2.74f1c8ea.chunk.js.map": "/rewear-frontend/static/js/2.74f1c8ea.chunk.js.map",
+    "index.html": "/rewear-frontend/index.html",
+    "precache-manifest.b24fa50f47aac80f0d5021cdb4617b64.js": "/rewear-frontend/precache-manifest.b24fa50f47aac80f0d5021cdb4617b64.js",
+    "service-worker.js": "/rewear-frontend/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/rewear-frontend/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.74f1c8ea.chunk.js.LICENSE.txt": "/rewear-frontend/static/js/2.74f1c8ea.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rewear-frontend/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed197840.js",
+    "static/js/2.74f1c8ea.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.c941e5aa.chunk.js"
+  ]
+}

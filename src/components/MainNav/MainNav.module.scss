@@ -1,0 +1,56 @@
+@import "../../styles/variables";
+
+//.root {
+//	flex-grow: 1;
+//}
+
+/*.MenuButton: {*/
+/*	margin-right: theme.spacing(2),*/
+/*}*/
+
+
+.appBar {
+	z-index: 2000 !important;
+}
+
+.icon {
+	color: $color;
+}
+
+.toolBar {
+	background-color: white;
+	//padding: 0;
+}
+
+.toolBar .logo {
+	font-size: 1.2rem;
+}
+
+.logo {
+	flex-grow: 1;
+	padding: 16px;
+	text-transform: uppercase;
+	color: $color;
+}
+
+
+.sidebarNavigation {
+	//@extend .sidebar;
+
+	z-index: 100;
+}
+
+.sidebarShoppingList {
+
+	.root {
+		background-color: red;
+		color: blue;
+	}
+
+	//position: absolute !important;
+	//top: 200px !important;
+
+
+	//z-index: 10;
+
+}

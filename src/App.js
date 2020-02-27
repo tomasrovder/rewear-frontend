@@ -1,11 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
-import Navigation from './containers/Navigation';
-import './App.css';
+import Layout from './containers/Layout';
+import classes from './App.css';
 
 function App() {
   return (
-    <Navigation />
+
+	<Layout></Layout>
+
   );
 }
 
